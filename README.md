@@ -1,2 +1,2 @@
-# jaredrbyui.github.io
+## jaredrbyui.github.io
 This is for a web development class.

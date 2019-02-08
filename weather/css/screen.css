@@ -34,7 +34,7 @@ body {
 }
 
 /* Nav stuff */
-nav {
+.navigation {
   display: inline-block
 }
 /* Section 3 - Mobile First rules */

@@ -15,6 +15,15 @@ header {
   background-color: #0e89d5
 }
 
+/* Header stuff */
+#logo {
+  display: inline-block
+}
+
+#pagetitle {
+  display: inline-block
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Sansita', sans-serif;
 }
@@ -24,11 +33,8 @@ body {
   font-size: 18px;
 }
 
+/* Nav stuff */
+nav {
+  display: inline-block
+}
 /* Section 3 - Mobile First rules */
-#logo {
-  display: inline-block
-}
-
-#pagetitle {
-  display: inline-block
-}

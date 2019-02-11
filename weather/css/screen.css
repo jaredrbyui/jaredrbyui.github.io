@@ -15,7 +15,6 @@ header {
   background-color: #0e89d5
 }
 
-/* Header stuff */
 #logo {
   display: inline-block
 }
@@ -24,6 +23,7 @@ header {
   display: inline-block
 }
 
+/* Fonts */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Sansita', sans-serif;
 }
@@ -31,10 +31,10 @@ h1, h2, h3, h4, h5, h6 {
 body {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 18px;
+  width: 100%
 }
 
-/* Nav stuff */
-li a {
-  display: inline-block
+#weather {
+  width: 100%
 }
 /* Section 3 - Mobile First rules */

@@ -1,0 +1,14 @@
+/* Imports */
+@import url('/weather/css/normalize.css')
+/* General */
+
+/* Mobile */
+body {
+  
+}
+/* Large */
+@media screen and (min-width: 700px){
+  body {
+   background-color: red; 
+  }
+}

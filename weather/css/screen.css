@@ -38,3 +38,7 @@ body {
   width: 100%;
 }
 /* Section 3 - Mobile First rules */
+#logo {
+  height: 10%;
+  width: auto;
+}

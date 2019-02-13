@@ -36,7 +36,7 @@ body {
   width: 100%;
 }
 /* Section 3 - Mobile First rules */
-logo {
+#logo {
   height: 15%;
   width: 15%;
 }

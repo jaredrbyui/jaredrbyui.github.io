@@ -21,7 +21,7 @@ header {
 }
 
 #pagetitle {
-  display: inline-block;
+  float: center;
 }
 
 /* Fonts */
@@ -36,6 +36,15 @@ body {
   height: 100%;
 }
 
+nav ul {
+  display: flex;
+  align-items: center;
+  justify-content:space-between;
+  flex-direction: row;
+  list-style-type: none;
+  background-color: #0e89d5;
+}
+
 #weather {
   width: 100%;
 }
@@ -47,4 +56,12 @@ body {
   max-height: 70px;
   padding-top: 1%;
   padding-bottom: 1%;
+}
+
+.tile {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
 }
